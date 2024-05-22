@@ -40,14 +40,14 @@
 
 <div align="left">
   <h2> ⚙️ GitHub Analytics </h2>
-  <a href="https://github.com/the-riquelme">
+  <a href="https://github.com/RiqKKas">
     <table>
       <tr>
         <td style="padding: 0; width=50%;">
-            <img src="https://github-readme-stats.vercel.app/api/?username=the-riquelme&show_icons=true&title_color=1c6cbf&text_color=246af9&bg_color=00000000&hide_border=true&icon_color=1c6cbf&hide_title=true&count_private=true"/>
+            <img src="https://github-readme-stats.vercel.app/api/?username=RiqKKas&show_icons=true&title_color=1c6cbf&text_color=246af9&bg_color=00000000&hide_border=true&icon_color=1c6cbf&hide_title=true&count_private=true"/>
         </td>
           <td style="padding: 0; width=50%;">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-riquelme&layout=compact&langs_count=7&theme=dark&title_color=1c6cbf&text_color=246af9&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiqKKas&layout=compact&langs_count=7&theme=dark&title_color=1c6cbf&text_color=246af9&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true"/>
         </td>
       </tr>
     </table>
@@ -61,7 +61,7 @@
 </div>
   
 <div align="right">
-	<a href="https://github.com/the-riquelme/the-riquelme/blob/main/README.pt-br.md" >
+	<a href="https://github.com/RiqKKas/RiqKKas/blob/main/README.pt-br.md" >
 		<img src="https://img.shields.io/badge/Lang-pt--BR-blue" alt="Translate to Portuguese"/>
 	</a>
 </div>
